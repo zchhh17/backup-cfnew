@@ -1,5 +1,6 @@
 name: Generate and Obfuscate Worker Script
-
+permissions:
+  contents: write
 on:
   workflow_dispatch:
   push:
