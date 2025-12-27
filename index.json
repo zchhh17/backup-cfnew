@@ -2,9 +2,9 @@
   "repo": "zchhh17/backup-cfnew",
   "backup_repo": "zchhh17/backup-cfnew",
   "tag": "commit-b9d2298",
-  "commit": "b9d2298",
-  "time": "2025-12-27 21:04:56",
+  "commit": "6095e4b",
+  "time": "2025-12-27 21:17:31",
   "assets": [
-    ""
+    "restore.sh"
   ]
 }
