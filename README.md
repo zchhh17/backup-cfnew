@@ -1,17 +1,12 @@
-# 📦 zchhh17/backup-cfnew 备份仓库
+# 📦 Backup Timeline
 
-> 本仓库为自动备份生成，请勿手动修改文件结构。
+本仓库用于自动备份上游项目的源码 Release 与灾备 mirror。
 
-## 🧾 最近一次备份
+---
 
-- **Upstream**：zchhh17/backup-cfnew
-- **Commit**：6095e4b
-- **Tag**：commit-b9d2298
-- **时间**：2025-12-27 21:17:31
+## 🕒 时间轴
 
-## ♻️ 恢复方式
+| 时间 | Commit | 说明 |
+|------|--------|------|
 
-1. 前往 GitHub Releases
-2. 下载对应 tag 的 Assets
-3. 优先使用 `restore.sh`（如存在）
-
+_自动生成于 2025-12-28 05:37:21_
